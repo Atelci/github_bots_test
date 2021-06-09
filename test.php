@@ -2,7 +2,7 @@
 require_once 'portal_initiator.php';
 
 try {
-	$base_path = BASE_PATH;
+	$base_path = BASE_PATH
 	$last_ds = strrpos($base_path, DS) + 1;
 	$context_name = substr($base_path, $last_ds);
 } catch (Exception $e) {
