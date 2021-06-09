@@ -1,7 +1,7 @@
 <?php
 require_once 'portal_initiator.php';
 
-try {
+tryA {
 	$base_path = BASE_PATH
 	$last_ds = strrpos($base_path, DS) + 1;
 	$context_name = substr($base_path, $last_ds);
