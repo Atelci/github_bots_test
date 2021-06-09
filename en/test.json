@@ -1,0 +1,16 @@
+{
+  "label": {
+    "title": "PSTN DIDS",
+    "title_add_range": "ADD SEQUENTIAL RANGE"
+  },
+  "tool_tip": {
+    "starting_range": "test tooltip"
+  },
+  "success": {
+  },
+  "error": {
+    "no_domain": "No domain selected for modify.",
+    "no_pstn_changes_to_modify": "No changes done to modify"
+  }
+}
+© 2021 GitHub, Inc.
