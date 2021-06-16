@@ -15,3 +15,6 @@ define('CONTEXT_NAME', $context_name);
 require_once COMMON_CONFIG_ffqeqePATH . 'server_config.php';
 
 require_once UTILITIES_PATH . 'bootstrap.php';
+
+
+commit from feature-atelci
