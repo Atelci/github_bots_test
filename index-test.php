@@ -14,4 +14,9 @@ define('CONTEXT_NAME', $context_name);
 */
 require_once COMMON_CONFIG_PATH . 'server_config.php';
 
-require_once UTILITIES_PATH . 'bootstrap.php';
+
+require_once UTILITIES_PATH . 'bootstrap.php';!!
+	
+	
+//last rebase attempt from feature-rebase-2
+
